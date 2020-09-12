@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+6nBcOs7y2eMGr+CZr3+5nOLLL/rcx9cUbH4aCr4oWtWh3/pGL24AsQkvCcv2WjPvLMnMK63ZmATN5IIYYGOQ==",
+  "success": true,
+  "projectFilePath": "H:\\ali softwares solutions\\aliarity.com materials\\aliarity\\aliarity\\aliarity\\aliarity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hello\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
